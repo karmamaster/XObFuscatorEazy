@@ -1,0 +1,6 @@
+N:\WorkingCodes\XObFuscatorEazy\XObFuscatorEazy\bin\Debug\XObFuscatorEazy.exe.config
+N:\WorkingCodes\XObFuscatorEazy\XObFuscatorEazy\bin\Debug\XObFuscatorEazy.exe
+N:\WorkingCodes\XObFuscatorEazy\XObFuscatorEazy\bin\Debug\XObFuscatorEazy.pdb
+N:\WorkingCodes\XObFuscatorEazy\XObFuscatorEazy\obj\Debug\XObFuscatorEazy.csprojResolveAssemblyReference.cache
+N:\WorkingCodes\XObFuscatorEazy\XObFuscatorEazy\obj\Debug\XObFuscatorEazy.exe
+N:\WorkingCodes\XObFuscatorEazy\XObFuscatorEazy\obj\Debug\XObFuscatorEazy.pdb
